@@ -1,8 +1,7 @@
 # binary-epiphany
 
 Binary Epiphany Beta v1.0
-
-Binary Epiphany is a tool made with Processing that adds a captivating twist to image processing. This tool takes two images and employs a Bayer Matrix order system to dither them before applying the Difference blendMode(), resulting in a surprising series of patterns, tessellations, and moiré effects. Users have the flexibility to experiment with settings such as Matrix Size, Pixel Size, Contrast, Threshold, and Rotation to explore various iterations and creative possibilities.
+https://anusheelgurjar.com/binary-epiphany
 
 Hi there!
 
